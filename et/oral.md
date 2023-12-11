@@ -95,3 +95,85 @@ X: Kohv on kallis kohvikus. Ma joon kohvi tavaliselt kodus.
 
 ## (Chp4 In shop and cafe)
 
+V: Mulle ka meeldib kohv. Mis puuviljad sulle meeldivad?
+
+X: Mulle meeldivad õunad ja banaanid. Aga mulle ei meeldi ananassid. Aga sulle?
+
+V: Mulle meeldivad (your favorite fruit).
+
+X: Mis on sinu lemmiksport?
+
+V: Minu lemmiksport on (your favorite sport). Aga sinu?
+
+X: Minu lemmiksport on jalgpall.
+
+V: Kas sa mängid jalgpalli?
+
+X: Ei, ma ei mängi jalgpalli. Aga ma vaatan jalgpalli.
+
+----
+
+## (Chp5 My Day)
+
+V: Mis kell sa ärkad?
+
+X: Ma ärkan kell 7. Aga sina?
+
+V: Ma ärkan kell 8. Siis ma söön hommikusööki.
+
+X: Mis sa sööd hommikusööki?
+
+V: Ma tavaliselt söön leiba.
+
+X: Mis kell sa lähed kooli?
+
+V: Ma lähen kooli kell 9. Aga sina?
+
+X: Ma ka lähen kooli kell 9.
+
+V: Siis ma õpin koolis. Mis sa teed koolis?
+
+X: Ma kuulan loenguid ja teen kodutööd. Siis ma lähen koju. Aga sina?
+
+V: Pärast kooli ma lähen poodi. Ma ostan süüa. Siis ma lähen koju. Ma teen süüa.
+
+X: Mis sa teed õhtul?
+
+V: Õhtul ma vaatan televiisorit. Aga sina?
+
+X: Õhtul ma mängin arvutimänge. Siis ma lähen magama.
+
+----
+
+## (Chp6 Family)
+
+V: Kui vana sa oled?
+
+X: Ma olen 23 aastat vana. Aga sina?
+
+V: Ma olen (your age) aastat vana. Kas sul on suur pere?
+
+X: Ei, mul on väike pere. 
+
+V: Kas sul on õde või vend?
+
+X: Ei, mul ei ole. Ma olen üksiklaps. Aga sul?
+
+V: Mul on (brother/sister/neither)
+
+X: Mul ei ole vend, aga mul on onupoeg. Tema nimi on Chengwu, ta on 29 aastat vana. Ta on insener.
+
+V: Kas ta on abielus?
+
+X: Jah, ta on abielus. Tema naise nimi on Lei. Ta on ka insener.
+
+V: ... (you can add something about your family)
+
+...
+
+
+
+
+
+
+
